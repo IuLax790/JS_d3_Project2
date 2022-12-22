@@ -1,1 +1,1 @@
-A recent visualization of Sport Player's Earnings by sport type
+A recent visualization of Sport Players Earnings by sport type
